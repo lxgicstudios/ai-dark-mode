@@ -1,5 +1,10 @@
 # ai-dark-mode
 
+[![npm version](https://img.shields.io/npm/v/ai-dark-mode.svg)](https://www.npmjs.com/package/ai-dark-mode)
+[![npm downloads](https://img.shields.io/npm/dm/ai-dark-mode.svg)](https://www.npmjs.com/package/ai-dark-mode)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Add dark mode support to any component or entire directory. Handles CSS variables, Tailwind dark: prefixes, and prefers-color-scheme.
 
 ## Install
