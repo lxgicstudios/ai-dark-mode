@@ -1,7 +1,7 @@
 {
   "name": "ai-dark-mode",
   "version": "1.0.0",
-  "description": "Add dark mode support to components using AI",
+  "description": "AI-powered dark mode generator - auto-generate dark theme CSS with GPT color analysis",
   "main": "dist/index.js",
   "bin": {
     "ai-dark-mode": "dist/cli.js"
@@ -9,7 +9,23 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["dark-mode", "theme", "css", "ai", "cli", "tailwind"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "dark-mode",
+    "css",
+    "theme",
+    "toggle",
+    "frontend",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "color-scheme",
+    "styling"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
