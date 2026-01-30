@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-dark-mode.svg)](https://www.npmjs.com/package/ai-dark-mode)
 [![npm downloads](https://img.shields.io/npm/dm/ai-dark-mode.svg)](https://www.npmjs.com/package/ai-dark-mode)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-dark-mode)](https://github.com/lxgic-studios/ai-dark-mode/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Add dark mode support to any component or entire directory. Handles CSS variables, Tailwind dark: prefixes, and prefers-color-scheme.
