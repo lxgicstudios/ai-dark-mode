@@ -1,5 +1,5 @@
 {
-  "name": "ai-dark-mode",
+  "name": "@lxgicstudios/ai-dark-mode",
   "version": "1.0.0",
   "description": "AI-powered dark mode generator - auto-generate dark theme CSS with GPT color analysis",
   "main": "dist/index.js",
