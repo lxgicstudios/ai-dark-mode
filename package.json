@@ -15,31 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "dark-mode",
-    "css",
-    "theme",
-    "toggle",
-    "frontend",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
     "color-scheme",
-    "styling"
+    "css",
+    "dark-mode",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "frontend",
+    "generative-ai",
+    "javascript",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-dark-mode#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-dark-mode"
+    "url": "https://github.com/LXGIC-Studios/ai-dark-mode"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-dark-mode/issues"
