@@ -8,7 +8,7 @@
     "ai-dark-mode": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-dark-mode/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,26 +32,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-dark-mode#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-dark-mode",
   "keywords": [
-    "2026-standards",
-    "AI-optimized",
-    "AI-powered",
-    "automation",
-    "best-practices",
-    "cli",
-    "developer-tools",
-    "modern-seo",
-    "performance",
-    "seo-tools",
-    "technical-seo",
-    "utility",
-    "web-optimization",
-    "lxgic",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "dark-mode",
+    "theme",
+    "css-variables",
+    "color-scheme",
+    "ui"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -62,7 +49,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-dark-mode"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-dark-mode"
   },
   "scripts": {
     "build": "tsc"
