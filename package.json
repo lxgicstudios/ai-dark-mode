@@ -40,7 +40,9 @@
     "color-scheme",
     "ui",
     "mobile-first",
-    "page-speed"
+    "page-speed",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
