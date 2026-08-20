@@ -48,10 +48,7 @@
     "developer-tools",
     "devtools",
     "gpt",
-    "mobile-first",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "mobile-first"
   ],
   "license": "MIT",
   "main": "dist/index.js",
